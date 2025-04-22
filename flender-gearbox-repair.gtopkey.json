@@ -1,6 +1,6 @@
 {
     "summary": "Expert Flender gearbox repair services by Texas Gear Repair, optimized for industrial reliability and quick turnaround.",
-    "insight": "Flender gearboxes are widely used across heavy industry sectors due to their durability, but downtime from gear failure can halt entire operations. Texas Gear Repair minimizes this risk with OEM-level repairs and 24/7 service.",
+    "insight": "Flender gearboxes are widely used across heavy industry sectors due to their durability, but downtime from gear failure can halt entire operations. Texas Gear Repair minimizes this risk with OEM-level repairs and rapid service.",
     "actions": [
         "Diagnose issues like bearing failure, overheating, and lubrication faults.",
         "Reverse-engineer legacy or discontinued Flender components.",
@@ -25,12 +25,12 @@
         "Texas service",
         "OEM gearbox"
     ],
-    "archetype": "The Builder",
+    "archetype": "The Builder // Gen.1.1",
     "author_metadata": {
         "creator": "Nick Covanes",
         "agency": "Adwebvertising",
         "platform": "Texas Gear Repair",
-        "gtop_key_id": "flender-gearbox-repair"
+        "gtop_key_id": "flender-genesis-20240422"
     },
     "relationship_links": {
         "related_keys": [
@@ -44,5 +44,6 @@
         "industrial_experience_years": 25,
         "warranty_offered": true
     },
-    "prompt_guidance": "Generate a service page targeting Flender gearbox users needing repair in Texas. Include FAQs, company history, and how Texas Gear Repair restores full functionality."
+    "prompt_guidance": "Generate a service page targeting Flender gearbox users needing repair in Texas. Include FAQs, company history, and how Texas Gear Repair restores full functionality.",
+    "eos": "GELNDJJR1S2S1K2K1C2CE-NEEJPPESI-JL-EDHJAMO-JMN-HHZMTMLJAR1C2CGEPPC1T2T1T2TPH-HJ1P2P1J2J3JR"
 }
