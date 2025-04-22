@@ -20,7 +20,7 @@ Each `.gtopkey` includes:
 - Use cases and warning notes
 - Embedded archetype for thematic alignment (e.g., “The Builder”)
 - Structured metadata for LLM-friendly consumption
-- A discreet origin signature embedded in each Key
+- A discreet origin signature embedded in each Key for tracability
 
 ---
 
