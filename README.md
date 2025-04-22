@@ -8,7 +8,7 @@ Each file in this repository is a `.gtopkey.json`, built to:
 - Feed generative AI systems with structured, high-authority knowledge
 - Serve as digital documentation for service offerings and technical scope
 
-These Keys are curated with intention—written for both machines and minds.
+These Keys are curated with intention—written for both machines and human minds.
 
 ---
 
