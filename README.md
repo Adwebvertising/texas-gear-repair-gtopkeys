@@ -46,4 +46,4 @@ This repository is one example of that vision in practice.
 All `.gtopkey` files are provided under the [MIT License](LICENSE).  
 They are publicly available, but please retain authorship and platform attribution when copying or adapting.
 
-> *“The seed is in itself.”* 🌱
+> *“The seed is in itself.”* 🌱 
